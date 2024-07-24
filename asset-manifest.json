@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/YupValidation/static/css/main.f20f5fa1.css",
-    "main.js": "/YupValidation/static/js/main.ce003b80.js",
+    "main.js": "/YupValidation/static/js/main.71958e1a.js",
     "static/js/453.a94b8769.chunk.js": "/YupValidation/static/js/453.a94b8769.chunk.js",
     "index.html": "/YupValidation/index.html",
     "main.f20f5fa1.css.map": "/YupValidation/static/css/main.f20f5fa1.css.map",
-    "main.ce003b80.js.map": "/YupValidation/static/js/main.ce003b80.js.map",
+    "main.71958e1a.js.map": "/YupValidation/static/js/main.71958e1a.js.map",
     "453.a94b8769.chunk.js.map": "/YupValidation/static/js/453.a94b8769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f20f5fa1.css",
-    "static/js/main.ce003b80.js"
+    "static/js/main.71958e1a.js"
   ]
 }
